@@ -201,16 +201,7 @@ python part2_stack_queue.py
 python part3_tree.py
 ```
 
-## Files
 
-```text
-DAA-Lab-Task-1/
-│
-├── README.md
-├── part1_trace.py
-├── part2_stack_queue.py
-└── part3_tree.py
-```
 
 ## Language
 
