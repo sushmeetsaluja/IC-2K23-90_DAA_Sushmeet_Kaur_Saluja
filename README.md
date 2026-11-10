@@ -16,7 +16,7 @@ The work is organized into separate folders for each laboratory task.
 ## Repository Structure
 
 ```text
-IC-2K23-90_DAA_ManthanSharma-main/
+IC-2K23-90_DAA_Sushmeet_Kaur_Saluja-main/
 │
 ├── README.md                              # Root repository documentation
 │
@@ -179,59 +179,4 @@ The detailed theory, traces, timing tables, sample results, and analysis for Tas
 
 Run commands from the repository's root directory. Paths containing spaces should be enclosed in quotation marks.
 
-### Prerequisites
 
-Python 3 is required. Matplotlib is needed for the Task 3 graphing program.
-
-```bash
-python --version
-python -m pip install matplotlib
-```
-
-### Task 1
-
-```bash
-python "DAA-LAB-TASK-1/part1_trace.py"
-python "DAA-LAB-TASK-1/part2_stack_queue.py"
-python "DAA-LAB-TASK-1/part4_complexity.py"
-```
-
-### Task 2
-
-```bash
-python "DAA-LAB-TASK-2/Section-B -question-1/1D.py"
-python "DAA-LAB-TASK-2/SectionB-Question-2/2D.py"
-python "DAA-LAB-TASK-2/Section-B-question-3/Sparse_matrix.py"
-python "DAA-LAB-TASK-2/Section-B-question-4/matrix_cal.py"
-```
-
-The Task 2 written answers and explanations are available in the corresponding `.md` files.
-
-### Task 3
-
-```bash
-python "DAA-LAB-TASK-3/program1_basic_sorts.py"
-python "DAA-LAB-TASK-3/program2_advanced_sorts.py"
-python "DAA-LAB-TASK-3/program3_radix_sort.py"
-python "DAA-LAB-TASK-3/program4_binary_search.py"
-python "DAA-LAB-TASK-3/program5_timing_analysis.py"
-python "DAA-LAB-TASK-3/program6_graphing.py"
-python "DAA-LAB-TASK-3/program7_student_manager.py"
-python "DAA-LAB-TASK-3/program8_search_engine.py"
-```
-
-Run the timing-analysis program before graphing if you want to regenerate the benchmark dataset and plots.
-
----
-
-## Student Information
-
-| Field | Details |
-|---|---|
-| Student Name | **Sushmeet Kaur Saluja** |
-| Roll Number | **IC-2K23-90** |
-| Subject | Design and Analysis of Algorithms (DAA) Laboratory |
-
----
-
-*This repository is maintained as the lab-work submission for the Design and Analysis of Algorithms course.*
