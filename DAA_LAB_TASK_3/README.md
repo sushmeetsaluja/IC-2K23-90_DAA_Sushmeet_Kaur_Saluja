@@ -501,4 +501,13 @@ python program5_timing_analysis.py   # Writes timing_results.csv
 python program6_graphing.py          # Reads CSV, writes graph_random.png + graph_sorted.png
 ```
 
+### 4. Section E Programs
+```bash
+# Student Record Manager
+python program7_student_manager.py --demo        # Non-interactive demonstration
+python program7_student_manager.py               # Interactive menu
 
+# Search Engine Simulator
+python program8_search_engine.py --demo          # Non-interactive demonstration
+python program8_search_engine.py                 # Interactive prompt
+```
