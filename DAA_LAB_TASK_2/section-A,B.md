@@ -93,3 +93,4 @@ Sparse triples: **(0, 2, 5), (1, 1, 8), (2, 0, 3)**
 - **Full 2D representation:** 4 rows × 3 columns = **12 values stored** (every cell, zero or not).
 - **Sparse representation:** 3 non-zero entries × 3 values each (row, column, value) = **9 values stored** (not counting the header).
 
+For this particular small, fairly dense matrix (3 out of 12 entries non-zero, 25%), the sparse form still stores fewer raw values (9 vs 12) — but the gap is small, which is exactly the kind of data point Section D Q3 asks you to reason about at larger sizes and different densities.
